@@ -9,7 +9,7 @@ features:
   details: How To Update Product Page Size Section In Shopify 
 - title: About me
   details: Resume Link
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: Test Application | Copyright © 2023 Johanna
 ---
 
 # Application-Test
