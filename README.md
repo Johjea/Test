@@ -2,7 +2,6 @@
 home: true
 actionText: Get Started →
 actionLink: /guide/
-features:
 ---
 
 # Application-Test
