@@ -2,7 +2,7 @@
   "name": "test",
   "version": "1.0.0",
   "description": "---\r home: true\r actionText: Get Started →\r actionLink: /guide/\r features:\r - title: Home\r   details: Homepage of the Test website\r - title: Guide\r   details: How To Update Product Page Size Section In Shopify \r - title: About me\r   details: Resume Link\r footer: Test Application | Copyright © 2023 Johanna\r ---",
-  "main": "index.js",
+  "main": "guide.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev .vuepress",
